@@ -26,6 +26,8 @@ Laravel CRUD
 Relasi database:
 
 Yayasan (1) ---- (N) Sekolah
+link foto ERD
+https://drive.google.com/file/d/100SrUJMc9BcKn7kzXldB5eI9oHcZGGnt/view?usp=sharing
 
 
 
